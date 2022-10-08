@@ -18,17 +18,4 @@ body {
   background-color: black;
   font-family: "Courier New",monospace;
   color: #66cecc;
-}ol,ul {
-  list-style: none;
-}
-
-#navigation li {
-  display: block;
-  float: left; 
-}
-
-body {
-  background-color: black;
-  font-family: "Courier New",monospace;
-  color: #66cecc;
 }
